@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="VideoPlayer">
+        <attr name="video_url" format="string"/>
+        <attr name="video_cover" format="string"/>
+        <attr name="video_title" format="string"/>
+        <attr name="video_duration" format="string"/>
+    </declare-styleable>
+
+</resources>
